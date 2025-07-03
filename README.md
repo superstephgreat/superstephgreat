@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Stephnie Ugochukwu|Teen developer|Frontend Developer
-
-<!DOCTYPE>
-<html>
+- 👋 Hi, I’m Stephnie Ugochukwu | Frontend Developer | Teen Developer
